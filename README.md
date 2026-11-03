@@ -447,6 +447,8 @@ This function uses recursion instead of a traditional loop to process log record
 5. Increases the anomaly counter.
 6. Calls itself to process the next line.
 7. Stops when the end of the file is reached.
+8. <img width="681" height="546" alt="image" src="https://github.com/user-attachments/assets/5de3d7e0-9923-4872-83d3-42f41cb2ea48" />
+
 
 **Recursion Concept:**
 
@@ -511,6 +513,8 @@ void generateSanitizedReport()
 6. Writes the processed records into the compliance report.
 7. Counts the number of processed records.
 8. Displays a success message.
+9. <img width="851" height="570" alt="image" src="https://github.com/user-attachments/assets/134e976a-9910-4281-a7c1-6849ee970460" />
+
 
 **Example of Intended Data Masking:**
 
